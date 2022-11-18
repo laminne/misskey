@@ -12,6 +12,7 @@
 
 <a href="https://misskey-hub.net/docs/install.html">
 		<img src="https://custom-icon-badges.herokuapp.com/badge/create_an-instance-FBD53C?logoColor=FBD53C&style=for-the-badge&logo=server&labelColor=363B40" alt="create an instance"/></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Flaminne%2Fmisskey?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Flaminne%2Fmisskey.svg?type=shield"/></a>
 
 <a href="./CONTRIBUTING.md">
 		<img src="https://custom-icon-badges.herokuapp.com/badge/become_a-contributor-A371F7?logoColor=A371F7&style=for-the-badge&logo=git-merge&labelColor=363B40" alt="become a contributor"/></a>
@@ -55,3 +56,7 @@ Misskey Documentation can be found at [Misskey Hub](https://misskey-hub.net/), s
 <div align="center">
 	<a class="rss3" title="RSS3" href="https://rss3.io/" target="_blank"><img src="https://rss3.mypinata.cloud/ipfs/QmUG6H3Z7D5P511shn7sB4CPmpjH5uZWu4m5mWX7U3Gqbu" alt="RSS3" height="60"></a>
 </div>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flaminne%2Fmisskey.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flaminne%2Fmisskey?ref=badge_large)
